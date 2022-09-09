@@ -1,0 +1,83 @@
+.logo{
+    float: left;
+    color: white;
+    font-size: 30px;
+}
+.links{
+    float: right;
+}
+.links ul li a{
+    color: gray;
+}
+.links ul li a:hover{
+    color: white;
+    background-color: transparent;
+}
+#active{
+    color: white;
+    background-color: transparent;
+}
+.container .row .col-md-5 img{
+    width: 100%;
+    height: auto;
+}
+
+.container .row .col-md-6 h1{
+    color: white;
+    font-size: 45px;
+}
+.container .row .col-md-6 p{
+    color: white;
+}
+.container .row .col-md-3 strong{
+    font-size: 30px;
+}
+.container .row .col-md-4 h3 i{
+    font-size: 30px;
+}
+
+.footer{
+    background-color: black;
+    padding: 20px;
+}
+.footer .container .col-md-5 .row a{
+    color: white;
+    font-size: 30px;
+}
+.footer .container .col-md-5 .row a:hover{
+    text-decoration: none;
+    background-color: transparent;
+}
+.footer .container .col-md-5 .row p{
+    color: white;
+}
+
+
+.footer .container .col-md-2 .row strong{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+}
+.footer .container .col-md-2 .row ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.footer .container .col-md-2 .row ul li{
+    margin-top: 8px;
+}
+.footer .container .col-md-2 .row ul li a{
+    color: gray;
+}
+.footer .container .col-md-2 .row ul li a:hover{
+    text-decoration: none;
+    color: white;
+    background-color: transparent;
+}
+.footer .container .col-md-2 .row p{
+    color: white;
+}
+.footer .container .row .col-md-12{
+    text-align: center;
+    color: white;
+}
